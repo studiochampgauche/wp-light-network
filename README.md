@@ -15,6 +15,6 @@ In bonus, can we make sure that an issue like this don't happen again? We think 
 
 ***What we want for the project***
 - Provide a WordPress without Gutenberg and blocks
-- Reduce the power of WordPress by allowing it to manage only what it wants to display on the network, namely themes, plugins, and profiles. For example, someone who chooses to do business with ACF should not end up overnight with a stolen copy called SCF. So it is a requirement: the community must be able to give its updates to their customers without being intercepted by gourvenance.
+- Reduce the power of WordPress by allowing it to manage only what it wants to display on the network, namely themes, plugins, and profiles. For example, someone who chooses to do business with ACF should not end up overnight with a stolen copy called SCF. So it is a requirement: the community must be able to give its updates to their customers without being intercepted by governance.
 - Stop manage via svn, use git.
 - Start anew and forget the 100+ repos of WordPress.
